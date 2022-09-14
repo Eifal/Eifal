@@ -5,7 +5,9 @@
 <h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">Eifal</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eifal&theme=jolly&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eifal&theme=dark&show_icons=true&repo=github-readme-stats" />
+</a>
 
 <p align="center">
  | <strong><a href="https://discordapp.com/users/888941811224150046/">Discord</a></strong> |
