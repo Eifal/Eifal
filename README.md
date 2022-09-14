@@ -5,9 +5,23 @@
 <h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">Eifal</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ </h1>
 
+<hr>
+
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
   <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=Eifal&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
+</p>
+
+<hr>
+
+<p align="center">
+<i><b>I'm still Learning:</b></i> 
+  <br><br>
+  <img align="center" src="assets/languages/c.svg" width="25px" />&nbsp;
+  <img align="center" src="assets/languages/python.svg" width="25px" />&nbsp;
+  <img align="center" src="assets/languages/java.svg" width="25px" />&nbsp;
+  <img align="center" src="assets/languages/javascript.svg" width="25px" />&nbsp;
+  <img align="center" src="assets/languages/cpp.svg" width="25px" />&nbsp;
 </p>
 
 <p align="center">
