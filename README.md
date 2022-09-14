@@ -19,7 +19,6 @@
   <br><br>
   <img align="center" src="assets/languages/c.svg" width="25px" />&nbsp;
   <img align="center" src="assets/languages/python.svg" width="25px" />&nbsp;
-  <img align="center" src="assets/languages/java.svg" width="25px" />&nbsp;
   <img align="center" src="assets/languages/javascript.svg" width="25px" />&nbsp;
   <img align="center" src="assets/languages/cpp.svg" width="25px" />&nbsp;
 </p>
