@@ -5,12 +5,10 @@
 <h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">Eifal</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ </h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<p align = "center">
+  <i><b>GitHub Stats:octocat::</b></i><br><br>
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
+</p>
 
 <p align="center">
  | <strong><a href="https://discordapp.com/users/888941811224150046/">Discord</a></strong> |
