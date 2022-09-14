@@ -5,8 +5,10 @@
 <h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">Eifal</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ </h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eifal&theme=jolly&show_icons=true)
+
 <p align="center">
-  <a href="https://github.com/Eifal"><img src="https://github-readme-stats.vercel.app/api?username=Eifal&hide_border=true&show_icons=true" alt="Eifal's github stats"></a>
+  //<a href="https://github.com/Eifal"><img src="https://github-readme-stats.vercel.app/api?username=Eifal&hide_border=true&show_icons=true" alt="Eifal's github stats"></a>
 </p>
 
 <p align="center">
