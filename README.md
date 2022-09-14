@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://discordapp.com/users/888941811224150046/">Discord</a></strong> |
+ | <strong><a href="https://discordapp.com/users/888941811224150046/">Discord</a></strong> |
 </p>
 
 <p align="center">❤ Nothing special about Me!.</p>
