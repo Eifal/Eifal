@@ -28,7 +28,7 @@
  | <strong><a href="https://discordapp.com/users/888941811224150046/">Discord</a></strong> |
 </p>
 
-<p align="center">💜 Nothing special about Me! 💜.</p>
+<p align="center">💜 Nothing special about Me! 💜</p>
 
 <!--
 **Eifal/Eifal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
