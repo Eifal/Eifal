@@ -15,11 +15,11 @@
 <hr>
 
 <p align="center">
-<i><b>Languages Currently Learning:</b></i> 
+<i><b>I'm Still Learning:</b></i> 
   <br><br>
-  <img align="center" src="https://img.shields.io/badge/-Python-black?logo=Python&style=social" width="50px" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/-Java-black?logo=java&style=social" width="50px" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/-C-black?logo=c&style=social" width="50px" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/-Python-black?logo=Python&style=social" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/-Java-black?logo=java&style=social" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/-C++-black?logo=c++&style=social" />&nbsp;
 </p>
 
 <hr>
