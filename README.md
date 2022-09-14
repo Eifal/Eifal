@@ -6,7 +6,8 @@
 <h1 align="center">Welcome to my GitHub profile~ </h1>
 
 <p align="center">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eifal&theme=jolly&show_icons=true)
+ <a [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eifal&theme=jolly&show_icons=true)
+            </a>
 </p>
 
 <p align="center">
