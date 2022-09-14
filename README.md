@@ -5,10 +5,7 @@
 <h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">Eifal</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ </h1>
 
-<p align="center">
- <a [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eifal&theme=jolly&show_icons=true)
-            </a>
-</p>
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eifal&theme=jolly&show_icons=true)
 
 <p align="center">
  | <strong><a href="https://discordapp.com/users/888941811224150046/">Discord</a></strong> |
