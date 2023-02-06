@@ -9,7 +9,7 @@
 
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src =[![GitHub Streak](https://streak-stats.demolab.com?user=eifal&theme=gruvbox&border_radius=20&mode=weekly)](https://git.io/streak-stats) />
+  <img src =https://streak-stats.demolab.com?user=eifal&theme=gruvbox&border_radius=20&mode=weekly />
 </p>
 <hr>
 <p align="center">
