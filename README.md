@@ -9,7 +9,7 @@
 
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=Eifal&bg_color=291B3E&title_color=ff64da&text_color=ffffff&icon_color=a960ff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
+  <img src =[![GitHub Streak](https://streak-stats.demolab.com?user=eifal&theme=gruvbox&border_radius=20&mode=weekly)](https://git.io/streak-stats) />
 </p>
 <hr>
 <p align="center">
