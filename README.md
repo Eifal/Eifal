@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">Eifal</a>!</h1>
-<h1 align="center">just someone learning to code ^^ </h1>
+<h1 align="center">Still learning^^ </h1>
 
 <hr>
 
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
   <img src =https://streak-stats.demolab.com?user=eifal&theme=Javascript-dark&border_radius=20 />
-  <img src =https://github-readme-activity-graph.cyclic.app/graph?username=eifal&theme=dracula />
+  <img src =httpp/graph?username=eifal&theme=dracula 
 </p>
 <hr>
 <p align="center">
