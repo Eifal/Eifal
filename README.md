@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">Eifal</a>!</h1>
-<h1 align="center">Just a guy learning to code! ^^ </h1>
+<h1 align="center">just someone learning to code ^^ </h1>
 
 <hr>
 
