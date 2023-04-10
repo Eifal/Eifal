@@ -2,7 +2,7 @@
   <a href="https://discordapp.com/users/888941811224150046/"><img src="banner2.gif" alt="Eifal Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">HENDZ</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">EIFAL</a>!</h1>
 
 
 <hr>
