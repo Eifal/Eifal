@@ -1,15 +1,11 @@
 <p align="center">
-  <a href="https://discordapp.com/users/888941811224150046/"><img src="banner1.gif" alt="Eifal Banner"></a>
+  <a href="https://discordapp.com/users/888941811224150046/"><img src="banner2.gif" alt="Eifal Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">Eifal</a>!</h1>
 
 
 <hr>
-
-<p align = "center">
-  <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src =https://streak-stats.demolab.com?user=eifal&theme=Javascript-dark&border_radius=20 />
 
 
 </p>
