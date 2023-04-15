@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discordapp.com/users/888941811224150046/"><img src="banner3.gif" alt="banner2"></a>
+  <a href="https://discordapp.com/users/888941811224150046/"><img src="banner3.gif" alt="banner2" border_radius=10 ></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">EIFAL</a>!</h1>
