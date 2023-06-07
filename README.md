@@ -8,7 +8,8 @@
 <hr>
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src =https://streak-stats.demolab.com?user=eifal&theme=jolly&hide_border=true&border_radius=10 />
+  <img src =http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eifal&theme=aura_dark />
+
 
 </p>
 <hr>
