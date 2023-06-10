@@ -25,8 +25,7 @@
 <hr>
 
 <p align="center">
- | <strong><a href="https://discordapp.com/users/888941811224150046/">Discord</a></strong> |
-</p>
+  <a href="https://discord.com/users/888941811224150046"><img src="https://lanyard.cnrad.dev/api/888941811224150046?borderRadius=20px&bg=00000000" alt="Discord" /></a>
+  </p>
 
 <p align="center">💜 Nothing special about Me! 💜</p>
-<p <img src="https://komarev.com/ghpvc/?username=Eifal&color=green" /> </p>
