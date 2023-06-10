@@ -25,7 +25,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://discord.com/users/888941811224150046"><img src="https://lanyard.cnrad.dev/api/888941811224150046?borderRadius=20px&bg=00000000" alt="Discord" /></a>
+  <a href="https://discord.com/users/888941811224150046"><img src="https://lanyard.cnrad.dev/api/888941811224150046?borderRadius=20px&bg=312355" alt="Discord" /></a>
   </p>
 
 <p align="center">💜 Nothing special about Me! 💜</p>
