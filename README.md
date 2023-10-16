@@ -2,7 +2,7 @@
   <a href="https://discordapp.com/users/888941811224150046/"><img src="banner3.gif" alt="banner2" ></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">EIFAL</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://discordapp.com/users/888941811224150046/">Eifal</a>!</h1>
 
 
 <hr>
