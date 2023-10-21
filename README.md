@@ -23,7 +23,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://discord-readme-badge.vercel.app/api?id=888941811224150046"></a>>
+  <a href="https://discord-readme-badge.vercel.app/api?id=888941811224150046"></a>
   <a href="https://discord.com/users/888941811224150046"><img src="https://lanyard.cnrad.dev/api/888941811224150046?borderRadius=20px&bg=312355" alt="Discord" /></a>
   </p>
 
