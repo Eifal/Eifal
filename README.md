@@ -21,5 +21,5 @@
 </p>
 
 <hr>
-<h1 align="center"><a href="https://discordapp.com/users/888941811224150046/">Discord</a></h1>
+<h1 align="center" font-size="10"><a href="https://discordapp.com/users/888941811224150046/">Discord</a></h1>
 <p align="center">💜 Nothing special about Me! 💜</p>
