@@ -17,6 +17,7 @@
   <img align="center" src="https://img.shields.io/badge/-Python-black?logo=P&style=social" />&nbsp;
   <img align="center" src="https://img.shields.io/badge/-Java-black?logo=Java&style=social" />&nbsp;
   <img align="center" src="https://img.shields.io/badge/-C++-black?logo=C++&style=social" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=social" />&nbsp;
 
 </p>
 
