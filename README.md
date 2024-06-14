@@ -22,5 +22,5 @@
 </p>
 
 <hr>
-<h6 align="center"><a href="https://discordapp.com/users/888941811224150046/">Discord</a></h6>
+<a target="_blank"href="https://discordapp.com/users/888941811224150046/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <p align="center">💜 Nothing special about Me! 💜</p>
