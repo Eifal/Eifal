@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="https://discordapp.com/users/888941811224150046/"><img src="banner3.gif" alt="banner2" ></a>
-</p>
-
-
-<hr>
-<p align = "center">
-  <i><b>GitHub Stats:</b></i><br><br>
-  <img src =https://streak-stats.demolab.com?user=eifal&theme=jolly&hide_border=true&border_radius=10 />
-
-
 </p>
 <hr>
 <p align="center">
