@@ -1,15 +1,20 @@
-<p align = "center">
 <img src="https://github.com/Eifal/Eifal/blob/main/yuki.gif" width="100px" >
-</p>
-<p align="center">
-  <br><br>
-  <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
 
-</p>
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-<p align="center">
-<a target="_blank"href="https://discordapp.com/users/888941811224150046/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+This is where I spend my nights.
+
+I'm currently learning to build AOSP.
+
+
+`.py`, `.js`, `.cpp`, `.java`
+
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
+
+![Eifal's github stats](https://github-readme-stats.vercel.app/api?username=Eifal&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eifal&layout=compact&hide=css,html&theme=dracula)
+
+</details>
