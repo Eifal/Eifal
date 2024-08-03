@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://github.com/Eifal/Eifal/blob/main/yuki.gif" >
+<img src="https://github.com/Eifal/Eifal/blob/main/yuki.gif" width="24px" >
 
 </p>
 <p align="center">
