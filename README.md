@@ -7,7 +7,7 @@
 📱 Learning to build AOSP and custom ROMs.
 
 
-🕹️ `.py` , `.js` , `.cpp` , `.java`
+🕹️ `.py` `.js` `.cpp` `.java`
 
 <details>
 <summary>⚡️ More about my coding life</summary>
