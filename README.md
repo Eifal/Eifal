@@ -1,13 +1,13 @@
-<img src="https://github.com/Eifal/Eifal/blob/main/yuki.gif" width="100px" style="border-radius: 5px;" >
+![](https://github.com/Eifal/Eifal/blob/master/bannerei.png?raw=true)
 
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 🦉 This is where I spend my nights.
 
-📱 I'm currently learning to build AOSP.
+📱 Learning to build AOSP and custom ROMs.
 
 
-🕹️ `.py`, `.js`, `.cpp`, `.java`
+🕹️ `.py` , `.js` , `.cpp` , `.java`
 
 <details>
 <summary>⚡️ More about my coding life</summary>
