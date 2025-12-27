@@ -13,8 +13,8 @@
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Eifal's github stats](https://github-readme-stats.vercel.app/api?username=Eifal&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues)
+![Eifal's github stats](https://github-readme-stats-fast.vercel.app/api?username=Eifal&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eifal&layout=compact&hide=css,html&theme=dracula)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eifal&layout=compact&hide=css,html&theme=dracula)
 
 </details>
