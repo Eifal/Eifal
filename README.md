@@ -16,8 +16,8 @@
 ![Eifal's github stats](https://github-readme-stats-fast.vercel.app/api?username=Eifal&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues)
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eifal&layout=compact&hide=css,html&theme=dracula)
+
+</details>
 <br>
 <img src="https://raw.githubusercontent.com/Eifal/Eifal/refs/heads/main/assets/run-hat.gif" height="40" />
 <br><br>
-
-</details>
