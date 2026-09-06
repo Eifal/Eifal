@@ -4,10 +4,10 @@
 
 🦉 This is where I spend my nights.
 
-📱 Learning to build AOSP and custom ROMs.
+📱 Learning to build AOSP and Part Time Roblox Developer.
 
 
-🕹️ `.rs` `.py` `.js` `.cpp` `.java`
+🕹️ `.rs` `.py` `.js` `.cpp` `.java` `.lua`
 
 <details>
 <summary>⚡️ More about my coding life</summary>
